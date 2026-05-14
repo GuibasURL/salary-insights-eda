@@ -37,4 +37,4 @@ O painel foi desenvolvido para responder às seguintes questões críticas de me
 ## 💻 Como Executar o Projeto
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/analise-salarios-dados.git](https://github.com/GuibasURL/analise-salarios-dados.git)
+   git clone [https://github.com/GuibasURL/salary-insights-eda.git](https://github.com/GuibasURL/salary-insights-eda.git)
