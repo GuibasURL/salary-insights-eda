@@ -2,7 +2,7 @@
 Análise Exploratória de Dados (EDA) sobre fatores que influenciam salários no mercado de trabalho.
 # 📊 Fatores de Impacto Salarial no Mercado de Dados (EDA & Dashboard)
 
-![Dashboard Executivo Final](caminho/para/sua/imagem_840881.png)
+![Dashboard Executivo Final](assets/dashboard_final.png)
 
 ## 📌 Visão Geral do Projeto
 Este projeto tem como objetivo analisar os principais fatores que influenciam a remuneração de profissionais da área de dados globalmente. Através de uma Análise Exploratória de Dados (EDA) e da construção de um Dashboard Executivo interativo, investigamos como variáveis como **Cargo**, **Tempo de Experiência**, **Nível de Formação Acadêmica**, **Porte da Empresa** e **Regime de Trabalho** impactam a média salarial do setor.
