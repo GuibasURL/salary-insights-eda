@@ -33,8 +33,3 @@ O painel foi desenvolvido para responder às seguintes questões críticas de me
 * **O Fenômeno das Startups Remotas:** Ao filtrar dinamicamente o painel por empresas de modelo **Startup** e regime **100% Remoto**, nota-se uma forte competitividade salarial para atrair talentos altamente versáteis, compensando a ausência de estruturas físicas.
 
 ---
-
-## 💻 Como Executar o Projeto
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/GuibasURL/salary-insights-eda.git](https://github.com/GuibasURL/salary-insights-eda.git)
